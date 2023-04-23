@@ -6,6 +6,7 @@
 # Custom ignore
 vendor/
 Engine/vendor
+bin-int/
 
 # User-specific files
 *.rsuser
